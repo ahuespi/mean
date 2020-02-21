@@ -115,3 +115,6 @@ React:
             producto={producto}
         />
         Pasar un arreglo con ciertos datos hacia un componente que se puede reutilizar multiples veces
+
+# PROYECTO UNO PACIENTES
+    En algunos casos voy a tener State en los componentes
